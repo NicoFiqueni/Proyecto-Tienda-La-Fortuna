@@ -1,0 +1,1220 @@
+[
+  {
+    "Concepto": "Accionera p/ silla apero",
+    "Precio de Lista": 45000,
+    "Precio Contado/Débito/Crédito 1": 38500,
+    "Precio 3 cuotas y Plan Z": 42800,
+    "Precio 6 cuotas": 45000
+  },
+  {
+    "Concepto": "Alpargata de Yute",
+    "Precio de Lista": 22500,
+    "Precio Contado/Débito/Crédito 1": 19000,
+    "Precio 3 cuotas y Plan Z": 21400,
+    "Precio 6 cuotas": 22500
+  },
+  {
+    "Concepto": "Alpargata pvc c/trenza",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Alpargatas de cuero",
+    "Precio de Lista": 32500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Alpargatas Goma",
+    "Precio de Lista": 10000,
+    "Precio Contado/Débito/Crédito 1": 8500,
+    "Precio 3 cuotas y Plan Z": 9500,
+    "Precio 6 cuotas": 10000
+  },
+  {
+    "Concepto": "Alpargatas PVC",
+    "Precio de Lista": 15000,
+    "Precio Contado/Débito/Crédito 1": 13000,
+    "Precio 3 cuotas y Plan Z": 14300,
+    "Precio 6 cuotas": 15000
+  },
+  {
+    "Concepto": "Argolla Chica",
+    "Precio de Lista": 3000,
+    "Precio Contado/Débito/Crédito 1": 2500,
+    "Precio 3 cuotas y Plan Z": 2600,
+    "Precio 6 cuotas": 2750
+  },
+  {
+    "Concepto": "Argolla Grande",
+    "Precio de Lista": 5000,
+    "Precio Contado/Débito/Crédito 1": 4500,
+    "Precio 3 cuotas y Plan Z": 4800,
+    "Precio 6 cuotas": 5000
+  },
+  {
+    "Concepto": "Argolla Mediana",
+    "Precio de Lista": 4500,
+    "Precio Contado/Débito/Crédito 1": 4000,
+    "Precio 3 cuotas y Plan Z": 4200,
+    "Precio 6 cuotas": 4375
+  },
+  {
+    "Concepto": "Basto pampa descarne",
+    "Precio de Lista": 125000,
+    "Precio Contado/Débito/Crédito 1": 106500,
+    "Precio 3 cuotas y Plan Z": 118800,
+    "Precio 6 cuotas": 125000
+  },
+  {
+    "Concepto": "Basto pampa suela",
+    "Precio de Lista": 150000,
+    "Precio Contado/Débito/Crédito 1": 130000,
+    "Precio 3 cuotas y Plan Z": 142500,
+    "Precio 6 cuotas": 150000
+  },
+  {
+    "Concepto": "Basto pampa suela completa",
+    "Precio de Lista": 500000,
+    "Precio Contado/Débito/Crédito 1": 425000,
+    "Precio 3 cuotas y Plan Z": 475000,
+    "Precio 6 cuotas": 500000
+  },
+  {
+    "Concepto": "Basto victoria",
+    "Precio de Lista": 206500,
+    "Precio Contado/Débito/Crédito 1": 175500,
+    "Precio 3 cuotas y Plan Z": 195900,
+    "Precio 6 cuotas": 206250
+  },
+  {
+    "Concepto": "Billeteras de cuero",
+    "Precio de Lista": 25000,
+    "Precio Contado/Débito/Crédito 1": 21500,
+    "Precio 3 cuotas y Plan Z": 23800,
+    "Precio 6 cuotas": 25000
+  },
+  {
+    "Concepto": "Boina hilo bordada",
+    "Precio de Lista": 22500,
+    "Precio Contado/Débito/Crédito 1": 19000,
+    "Precio 3 cuotas y Plan Z": 21400,
+    "Precio 6 cuotas": 22500
+  },
+  {
+    "Concepto": "Boina paño",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Boinas de hilo hombre",
+    "Precio de Lista": 19000,
+    "Precio Contado/Débito/Crédito 1": 16000,
+    "Precio 3 cuotas y Plan Z": 17800,
+    "Precio 6 cuotas": 18750
+  },
+  {
+    "Concepto": "Boinas de hilo niño",
+    "Precio de Lista": 15000,
+    "Precio Contado/Débito/Crédito 1": 13000,
+    "Precio 3 cuotas y Plan Z": 14300,
+    "Precio 6 cuotas": 15000
+  },
+  {
+    "Concepto": "Boinas de hilo pampa",
+    "Precio de Lista": 22500,
+    "Precio Contado/Débito/Crédito 1": 19000,
+    "Precio 3 cuotas y Plan Z": 21400,
+    "Precio 6 cuotas": 22500
+  },
+  {
+    "Concepto": "Boinas de hilo tolosa",
+    "Precio de Lista": 44000,
+    "Precio Contado/Débito/Crédito 1": 37500,
+    "Precio 3 cuotas y Plan Z": 41600,
+    "Precio 6 cuotas": 43750
+  },
+  {
+    "Concepto": "Bombacha Malambo",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Bombacha mil rayas",
+    "Precio de Lista": 56500,
+    "Precio Contado/Débito/Crédito 1": 48000,
+    "Precio 3 cuotas y Plan Z": 53400,
+    "Precio 6 cuotas": 56250
+  },
+  {
+    "Concepto": "Bombacha pampero dama",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Bombacha pampero hombre",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Bombacha pampero niño",
+    "Precio de Lista": 32000,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Bombacha Pantalon Argentino",
+    "Precio de Lista": 56500,
+    "Precio Contado/Débito/Crédito 1": 48000,
+    "Precio 3 cuotas y Plan Z": 53400,
+    "Precio 6 cuotas": 56250
+  },
+  {
+    "Concepto": "Bombilla alpaca",
+    "Precio de Lista": 25000,
+    "Precio Contado/Débito/Crédito 1": 21500,
+    "Precio 3 cuotas y Plan Z": 23800,
+    "Precio 6 cuotas": 25000
+  },
+  {
+    "Concepto": "Bota encarrojada niño 26 al 33",
+    "Precio de Lista": 175000,
+    "Precio Contado/Débito/Crédito 1": 150000,
+    "Precio 3 cuotas y Plan Z": 166300,
+    "Precio 6 cuotas": 175000
+  },
+  {
+    "Concepto": "Botas Combinadas",
+    "Precio de Lista": 200000,
+    "Precio Contado/Débito/Crédito 1": 170000,
+    "Precio 3 cuotas y Plan Z": 190000,
+    "Precio 6 cuotas": 200000
+  },
+  {
+    "Concepto": "Botas de montar hombre/dama",
+    "Precio de Lista": 300000,
+    "Precio Contado/Débito/Crédito 1": 255000,
+    "Precio 3 cuotas y Plan Z": 285000,
+    "Precio 6 cuotas": 300000
+  },
+  {
+    "Concepto": "Botas descarne",
+    "Precio de Lista": 169000,
+    "Precio Contado/Débito/Crédito 1": 145000,
+    "Precio 3 cuotas y Plan Z": 160300,
+    "Precio 6 cuotas": 168750
+  },
+  {
+    "Concepto": "Botas encarrojadas",
+    "Precio de Lista": 225000,
+    "Precio Contado/Débito/Crédito 1": 192000,
+    "Precio 3 cuotas y Plan Z": 213800,
+    "Precio 6 cuotas": 225000
+  },
+  {
+    "Concepto": "Botas goma Pampero",
+    "Precio de Lista": 52500,
+    "Precio Contado/Débito/Crédito 1": 45000,
+    "Precio 3 cuotas y Plan Z": 49900,
+    "Precio 6 cuotas": 52500
+  },
+  {
+    "Concepto": "Botas goma Torerita",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Botas malambo",
+    "Precio de Lista": 300000,
+    "Precio Contado/Débito/Crédito 1": 255000,
+    "Precio 3 cuotas y Plan Z": 285000,
+    "Precio 6 cuotas": 300000
+  },
+  {
+    "Concepto": "Botas rectas dama",
+    "Precio de Lista": 225000,
+    "Precio Contado/Débito/Crédito 1": 192000,
+    "Precio 3 cuotas y Plan Z": 213800,
+    "Precio 6 cuotas": 225000
+  },
+  {
+    "Concepto": "Botas rectas hombre",
+    "Precio de Lista": 225000,
+    "Precio Contado/Débito/Crédito 1": 192000,
+    "Precio 3 cuotas y Plan Z": 213800,
+    "Precio 6 cuotas": 225000
+  },
+  {
+    "Concepto": "Botines de trabajo CAT",
+    "Precio de Lista": 81500,
+    "Precio Contado/Débito/Crédito 1": 69000,
+    "Precio 3 cuotas y Plan Z": 77200,
+    "Precio 6 cuotas": 81250
+  },
+  {
+    "Concepto": "Bozales Nailo",
+    "Precio de Lista": 47500,
+    "Precio Contado/Débito/Crédito 1": 40500,
+    "Precio 3 cuotas y Plan Z": 45100,
+    "Precio 6 cuotas": 47500
+  },
+  {
+    "Concepto": "Camisa de trabajo Pampero",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Camisa de vestir dama manga corta",
+    "Precio de Lista": 19000,
+    "Precio Contado/Débito/Crédito 1": 16000,
+    "Precio 3 cuotas y Plan Z": 17800,
+    "Precio 6 cuotas": 18750
+  },
+  {
+    "Concepto": "Camisa de vestir dama manga larga",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Camisa de vestir hombre manga larga",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Camisa lino",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Camisa secado rápido",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Carona doble pelo",
+    "Precio de Lista": 181500,
+    "Precio Contado/Débito/Crédito 1": 154000,
+    "Precio 3 cuotas y Plan Z": 172200,
+    "Precio 6 cuotas": 181250
+  },
+  {
+    "Concepto": "Carona doble suela pelo",
+    "Precio de Lista": 287500,
+    "Precio Contado/Débito/Crédito 1": 244500,
+    "Precio 3 cuotas y Plan Z": 273100,
+    "Precio 6 cuotas": 287500
+  },
+  {
+    "Concepto": "Carona simple suela",
+    "Precio de Lista": 250000,
+    "Precio Contado/Débito/Crédito 1": 212500,
+    "Precio 3 cuotas y Plan Z": 237500,
+    "Precio 6 cuotas": 250000
+  },
+  {
+    "Concepto": "Caronilla suela",
+    "Precio de Lista": 250000,
+    "Precio Contado/Débito/Crédito 1": 212500,
+    "Precio 3 cuotas y Plan Z": 237500,
+    "Precio 6 cuotas": 250000
+  },
+  {
+    "Concepto": "Centro rastra alpaca",
+    "Precio de Lista": 125000,
+    "Precio Contado/Débito/Crédito 1": 106500,
+    "Precio 3 cuotas y Plan Z": 118800,
+    "Precio 6 cuotas": 125000
+  },
+  {
+    "Concepto": "Chomba lisa",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Chomba pampa",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Chomba pampa niño t 2 al 16",
+    "Precio de Lista": 19000,
+    "Precio Contado/Débito/Crédito 1": 16000,
+    "Precio 3 cuotas y Plan Z": 17800,
+    "Precio 6 cuotas": 18750
+  },
+  {
+    "Concepto": "Cincha y sobrecincha",
+    "Precio de Lista": 125000,
+    "Precio Contado/Débito/Crédito 1": 106500,
+    "Precio 3 cuotas y Plan Z": 118800,
+    "Precio 6 cuotas": 125000
+  },
+  {
+    "Concepto": "Cincha y sobrecincha cinceladas",
+    "Precio de Lista": 150000,
+    "Precio Contado/Débito/Crédito 1": 127500,
+    "Precio 3 cuotas y Plan Z": 142500,
+    "Precio 6 cuotas": 150000
+  },
+  {
+    "Concepto": "Cintos de cuero",
+    "Precio de Lista": 15000,
+    "Precio Contado/Débito/Crédito 1": 13000,
+    "Precio 3 cuotas y Plan Z": 14300,
+    "Precio 6 cuotas": 15000
+  },
+  {
+    "Concepto": "Clavo Corona 24 CLAVOS",
+    "Precio de Lista": 7500,
+    "Precio Contado/Débito/Crédito 1": 6500,
+    "Precio 3 cuotas y Plan Z": 7100,
+    "Precio 6 cuotas": 7500
+  },
+  {
+    "Concepto": "Clavo Corona CAJA (250)",
+    "Precio de Lista": 44000,
+    "Precio Contado/Débito/Crédito 1": 37500,
+    "Precio 3 cuotas y Plan Z": 41600,
+    "Precio 6 cuotas": 43750
+  },
+  {
+    "Concepto": "Clavo Mustad 24 CLAVOS",
+    "Precio de Lista": 10000,
+    "Precio Contado/Débito/Crédito 1": 8500,
+    "Precio 3 cuotas y Plan Z": 9500,
+    "Precio 6 cuotas": 10000
+  },
+  {
+    "Concepto": "Clavo Mustad CAJA (250)",
+    "Precio de Lista": 56500,
+    "Precio Contado/Débito/Crédito 1": 48000,
+    "Precio 3 cuotas y Plan Z": 53400,
+    "Precio 6 cuotas": 56250
+  },
+  {
+    "Concepto": "Clavo Omega 24 CLAVOS",
+    "Precio de Lista": 5000,
+    "Precio Contado/Débito/Crédito 1": 4500,
+    "Precio 3 cuotas y Plan Z": 4800,
+    "Precio 6 cuotas": 5000
+  },
+  {
+    "Concepto": "Clavo Omega CAJA (250)",
+    "Precio de Lista": 35000,
+    "Precio Contado/Débito/Crédito 1": 30000,
+    "Precio 3 cuotas y Plan Z": 33300,
+    "Precio 6 cuotas": 35000
+  },
+  {
+    "Concepto": "Conjunto gaucho niño",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Corbatin bordado",
+    "Precio de Lista": 10000,
+    "Precio Contado/Débito/Crédito 1": 8500,
+    "Precio 3 cuotas y Plan Z": 9500,
+    "Precio 6 cuotas": 10000
+  },
+  {
+    "Concepto": "Corbatin Tafeta",
+    "Precio de Lista": 2500,
+    "Precio Contado/Débito/Crédito 1": 2000,
+    "Precio 3 cuotas y Plan Z": 2400,
+    "Precio 6 cuotas": 2500
+  },
+  {
+    "Concepto": "Correa p/ estribo  suela",
+    "Precio de Lista": 45000,
+    "Precio Contado/Débito/Crédito 1": 38500,
+    "Precio 3 cuotas y Plan Z": 42800,
+    "Precio 6 cuotas": 45000
+  },
+  {
+    "Concepto": "Corrion suela",
+    "Precio de Lista": 22500,
+    "Precio Contado/Débito/Crédito 1": 19000,
+    "Precio 3 cuotas y Plan Z": 21400,
+    "Precio 6 cuotas": 22500
+  },
+  {
+    "Concepto": "Destorcedor o Asidero n°2",
+    "Precio de Lista": 6000,
+    "Precio Contado/Débito/Crédito 1": 5000,
+    "Precio 3 cuotas y Plan Z": 5700,
+    "Precio 6 cuotas": 6000
+  },
+  {
+    "Concepto": "Destorcedor o Asidero n°3",
+    "Precio de Lista": 7000,
+    "Precio Contado/Débito/Crédito 1": 6000,
+    "Precio 3 cuotas y Plan Z": 6500,
+    "Precio 6 cuotas": 6875
+  },
+  {
+    "Concepto": "Destorcedor o Asidero n°5",
+    "Precio de Lista": 8000,
+    "Precio Contado/Débito/Crédito 1": 7000,
+    "Precio 3 cuotas y Plan Z": 7700,
+    "Precio 6 cuotas": 8125
+  },
+  {
+    "Concepto": "Disco Goma (chupete)",
+    "Precio de Lista": 10000,
+    "Precio Contado/Débito/Crédito 1": 8500,
+    "Precio 3 cuotas y Plan Z": 9500,
+    "Precio 6 cuotas": 10000
+  },
+  {
+    "Concepto": "Encimera p/ basto",
+    "Precio de Lista": 87500,
+    "Precio Contado/Débito/Crédito 1": 74500,
+    "Precio 3 cuotas y Plan Z": 83100,
+    "Precio 6 cuotas": 87500
+  },
+  {
+    "Concepto": "Encimera p/ silla apero",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Espuela alpaca llorona",
+    "Precio de Lista": 175000,
+    "Precio Contado/Débito/Crédito 1": 150000,
+    "Precio 3 cuotas y Plan Z": 166300,
+    "Precio 6 cuotas": 175000
+  },
+  {
+    "Concepto": "Espuela cromada",
+    "Precio de Lista": 69000,
+    "Precio Contado/Débito/Crédito 1": 58500,
+    "Precio 3 cuotas y Plan Z": 65300,
+    "Precio 6 cuotas": 68750
+  },
+  {
+    "Concepto": "Espuela pulida",
+    "Precio de Lista": 56500,
+    "Precio Contado/Débito/Crédito 1": 48000,
+    "Precio 3 cuotas y Plan Z": 53400,
+    "Precio 6 cuotas": 56250
+  },
+  {
+    "Concepto": "Estribo Forrada Suela",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Estribo Hierro",
+    "Precio de Lista": 69000,
+    "Precio Contado/Débito/Crédito 1": 58500,
+    "Precio 3 cuotas y Plan Z": 65300,
+    "Precio 6 cuotas": 68750
+  },
+  {
+    "Concepto": "Estribo Madera",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Fajas A 6 cm",
+    "Precio de Lista": 11500,
+    "Precio Contado/Débito/Crédito 1": 10000,
+    "Precio 3 cuotas y Plan Z": 10700,
+    "Precio 6 cuotas": 11250
+  },
+  {
+    "Concepto": "Fajas B 9 cm",
+    "Precio de Lista": 14000,
+    "Precio Contado/Débito/Crédito 1": 12000,
+    "Precio 3 cuotas y Plan Z": 13100,
+    "Precio 6 cuotas": 13750
+  },
+  {
+    "Concepto": "Fajas C 11 cm",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Freno Copa",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Freno Cromado",
+    "Precio de Lista": 62500,
+    "Precio Contado/Débito/Crédito 1": 53000,
+    "Precio 3 cuotas y Plan Z": 59400,
+    "Precio 6 cuotas": 62500
+  },
+  {
+    "Concepto": "Freno pulido",
+    "Precio de Lista": 44000,
+    "Precio Contado/Débito/Crédito 1": 37500,
+    "Precio 3 cuotas y Plan Z": 41600,
+    "Precio 6 cuotas": 43750
+  },
+  {
+    "Concepto": "Gorra inglesa grafa",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Gorra inglesa paño",
+    "Precio de Lista": 7500,
+    "Precio Contado/Débito/Crédito 1": 6500,
+    "Precio 3 cuotas y Plan Z": 7100,
+    "Precio 6 cuotas": 7500
+  },
+  {
+    "Concepto": "Gorra inglesa ventilada",
+    "Precio de Lista": 15000,
+    "Precio Contado/Débito/Crédito 1": 13000,
+    "Precio 3 cuotas y Plan Z": 14300,
+    "Precio 6 cuotas": 15000
+  },
+  {
+    "Concepto": "Guardabarro doble pelo",
+    "Precio de Lista": 45000,
+    "Precio Contado/Débito/Crédito 1": 38500,
+    "Precio 3 cuotas y Plan Z": 42800,
+    "Precio 6 cuotas": 45000
+  },
+  {
+    "Concepto": "Guardabarro doble suela pelo",
+    "Precio de Lista": 62500,
+    "Precio Contado/Débito/Crédito 1": 53000,
+    "Precio 3 cuotas y Plan Z": 59400,
+    "Precio 6 cuotas": 62500
+  },
+  {
+    "Concepto": "Guardabarro suela",
+    "Precio de Lista": 45000,
+    "Precio Contado/Débito/Crédito 1": 38500,
+    "Precio 3 cuotas y Plan Z": 42800,
+    "Precio 6 cuotas": 45000
+  },
+  {
+    "Concepto": "Herradura Corona JUEGO  (4)",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Herradura Mustad JUEGO  (4)",
+    "Precio de Lista": 22500,
+    "Precio Contado/Débito/Crédito 1": 19000,
+    "Precio 3 cuotas y Plan Z": 21400,
+    "Precio 6 cuotas": 22500
+  },
+  {
+    "Concepto": "Juego de pellón ",
+    "Precio de Lista": 200000,
+    "Precio Contado/Débito/Crédito 1": 170000,
+    "Precio 3 cuotas y Plan Z": 190000,
+    "Precio 6 cuotas": 200000
+  },
+  {
+    "Concepto": "Juego toquilla 1",
+    "Precio de Lista": 22500,
+    "Precio Contado/Débito/Crédito 1": 19000,
+    "Precio 3 cuotas y Plan Z": 21400,
+    "Precio 6 cuotas": 22500
+  },
+  {
+    "Concepto": "Juego toquilla 2",
+    "Precio de Lista": 25000,
+    "Precio Contado/Débito/Crédito 1": 21500,
+    "Precio 3 cuotas y Plan Z": 23800,
+    "Precio 6 cuotas": 25000
+  },
+  {
+    "Concepto": "Juego toquilla 3 ",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Juego toquilla 4",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Lazo 9 brazadas",
+    "Precio de Lista": 150000,
+    "Precio Contado/Débito/Crédito 1": 127500,
+    "Precio 3 cuotas y Plan Z": 142500,
+    "Precio 6 cuotas": 150000
+  },
+  {
+    "Concepto": "Lonja pescuecera",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Manta para Caballo",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Mate Imperial",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Montura chilena original",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 475000,
+    "Precio 6 cuotas": 500000
+  },
+  {
+    "Concepto": "Montura chilena original c/estribo",
+    "Precio de Lista": 612500,
+    "Precio Contado/Débito/Crédito 1": 521000,
+    "Precio 3 cuotas y Plan Z": 581900,
+    "Precio 6 cuotas": 612500
+  },
+  {
+    "Concepto": "Mosqueton chico",
+    "Precio de Lista": 0,
+    "Precio Contado/Débito/Crédito 1": 0,
+    "Precio 3 cuotas y Plan Z": 0,
+    "Precio 6 cuotas": 0
+  },
+  {
+    "Concepto": "Pantalon de trabajo cargo Pampero",
+    "Precio de Lista": 31500,
+    "Precio Contado/Débito/Crédito 1": 27000,
+    "Precio 3 cuotas y Plan Z": 29700,
+    "Precio 6 cuotas": 31250
+  },
+  {
+    "Concepto": "Pantalon secado rápido",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Pañuelo estampado",
+    "Precio de Lista": 12500,
+    "Precio Contado/Débito/Crédito 1": 11000,
+    "Precio 3 cuotas y Plan Z": 11900,
+    "Precio 6 cuotas": 12500
+  },
+  {
+    "Concepto": "Pañuelo gasa 1,0 m x 1,0 m",
+    "Precio de Lista": 15000,
+    "Precio Contado/Débito/Crédito 1": 13000,
+    "Precio 3 cuotas y Plan Z": 14300,
+    "Precio 6 cuotas": 15000
+  },
+  {
+    "Concepto": "Pañuelos de baile gasa",
+    "Precio de Lista": 6500,
+    "Precio Contado/Débito/Crédito 1": 5500,
+    "Precio 3 cuotas y Plan Z": 5900,
+    "Precio 6 cuotas": 6250
+  },
+  {
+    "Concepto": "Pañuelos de baile tafeta",
+    "Precio de Lista": 2500,
+    "Precio Contado/Débito/Crédito 1": 2000,
+    "Precio 3 cuotas y Plan Z": 2400,
+    "Precio 6 cuotas": 2500
+  },
+  {
+    "Concepto": "Pañuelos de cuello seda 1,0 m x 1,0 m",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Pañuelos de cuello seda 1,20 m x1,20 m",
+    "Precio de Lista": 20000,
+    "Precio Contado/Débito/Crédito 1": 17000,
+    "Precio 3 cuotas y Plan Z": 19000,
+    "Precio 6 cuotas": 20000
+  },
+  {
+    "Concepto": "Pañuelos de cuello tafeta 0,80 m x 0,80 m",
+    "Precio de Lista": 6500,
+    "Precio Contado/Débito/Crédito 1": 5500,
+    "Precio 3 cuotas y Plan Z": 5900,
+    "Precio 6 cuotas": 6250
+  },
+  {
+    "Concepto": "Pañuelos de cuello tafeta 1,0 m x 1,0 m",
+    "Precio de Lista": 6500,
+    "Precio Contado/Débito/Crédito 1": 5500,
+    "Precio 3 cuotas y Plan Z": 5900,
+    "Precio 6 cuotas": 6250
+  },
+  {
+    "Concepto": "Pañuelos de cuello tafeta 1,20 m x1,20 m",
+    "Precio de Lista": 7500,
+    "Precio Contado/Débito/Crédito 1": 6500,
+    "Precio 3 cuotas y Plan Z": 7100,
+    "Precio 6 cuotas": 7500
+  },
+  {
+    "Concepto": "Pasa pañuelo Alpaca y  Asta",
+    "Precio de Lista": 10000,
+    "Precio Contado/Débito/Crédito 1": 8500,
+    "Precio 3 cuotas y Plan Z": 9500,
+    "Precio 6 cuotas": 10000
+  },
+  {
+    "Concepto": "Pasa pañuelo Tubo",
+    "Precio de Lista": 5000,
+    "Precio Contado/Débito/Crédito 1": 4500,
+    "Precio 3 cuotas y Plan Z": 4800,
+    "Precio 6 cuotas": 5000
+  },
+  {
+    "Concepto": "Pelero juego x 3",
+    "Precio de Lista": 175000,
+    "Precio Contado/Débito/Crédito 1": 150000,
+    "Precio 3 cuotas y Plan Z": 166300,
+    "Precio 6 cuotas": 175000
+  },
+  {
+    "Concepto": "Plantilla cuero",
+    "Precio de Lista": 5000,
+    "Precio Contado/Débito/Crédito 1": 4500,
+    "Precio 3 cuotas y Plan Z": 4800,
+    "Precio 6 cuotas": 5000
+  },
+  {
+    "Concepto": "Plantilla toalla",
+    "Precio de Lista": 4500,
+    "Precio Contado/Débito/Crédito 1": 4000,
+    "Precio 3 cuotas y Plan Z": 4200,
+    "Precio 6 cuotas": 4375
+  },
+  {
+    "Concepto": "Pollera de paisana",
+    "Precio de Lista": 75000,
+    "Precio Contado/Débito/Crédito 1": 64000,
+    "Precio 3 cuotas y Plan Z": 71300,
+    "Precio 6 cuotas": 75000
+  },
+  {
+    "Concepto": "Poncho art 90/ 0,80m",
+    "Precio de Lista": 37500,
+    "Precio Contado/Débito/Crédito 1": 32000,
+    "Precio 3 cuotas y Plan Z": 35600,
+    "Precio 6 cuotas": 37500
+  },
+  {
+    "Concepto": "Poncho art 91/ 1,00m",
+    "Precio de Lista": 42500,
+    "Precio Contado/Débito/Crédito 1": 36000,
+    "Precio 3 cuotas y Plan Z": 40400,
+    "Precio 6 cuotas": 42500
+  },
+  {
+    "Concepto": "Poncho art 92/ 1,20m",
+    "Precio de Lista": 47500,
+    "Precio Contado/Débito/Crédito 1": 40500,
+    "Precio 3 cuotas y Plan Z": 45100,
+    "Precio 6 cuotas": 47500
+  },
+  {
+    "Concepto": "Poncho art 93/ 1,40m",
+    "Precio de Lista": 52500,
+    "Precio Contado/Débito/Crédito 1": 45000,
+    "Precio 3 cuotas y Plan Z": 49900,
+    "Precio 6 cuotas": 52500
+  },
+  {
+    "Concepto": "Poncho art 94/ 1,60m",
+    "Precio de Lista": 77500,
+    "Precio Contado/Débito/Crédito 1": 66000,
+    "Precio 3 cuotas y Plan Z": 73600,
+    "Precio 6 cuotas": 77500
+  },
+  {
+    "Concepto": "Poncho LIVIANO art 65/ 1,80m",
+    "Precio de Lista": 90000,
+    "Precio Contado/Débito/Crédito 1": 76500,
+    "Precio 3 cuotas y Plan Z": 85500,
+    "Precio 6 cuotas": 90000
+  },
+  {
+    "Concepto": "Poncho LIVIANO art 66/ 2,00m",
+    "Precio de Lista": 105000,
+    "Precio Contado/Débito/Crédito 1": 89500,
+    "Precio 3 cuotas y Plan Z": 99800,
+    "Precio 6 cuotas": 105000
+  },
+  {
+    "Concepto": "Poncho p/ lluvia",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Poncho PESADO art 104/ 2,20m",
+    "Precio de Lista": 175000,
+    "Precio Contado/Débito/Crédito 1": 149000,
+    "Precio 3 cuotas y Plan Z": 166300,
+    "Precio 6 cuotas": 175000
+  },
+  {
+    "Concepto": "Poncho PESADO art 105/ 2,50m",
+    "Precio de Lista": 187500,
+    "Precio Contado/Débito/Crédito 1": 159500,
+    "Precio 3 cuotas y Plan Z": 178100,
+    "Precio 6 cuotas": 187500
+  },
+  {
+    "Concepto": "Poncho PESADO art 106/ 1,80m",
+    "Precio de Lista": 150000,
+    "Precio Contado/Débito/Crédito 1": 127500,
+    "Precio 3 cuotas y Plan Z": 142500,
+    "Precio 6 cuotas": 150000
+  },
+  {
+    "Concepto": "Poncho PESADO art 108/ 2,00m",
+    "Precio de Lista": 162500,
+    "Precio Contado/Débito/Crédito 1": 138000,
+    "Precio 3 cuotas y Plan Z": 154400,
+    "Precio 6 cuotas": 162500
+  },
+  {
+    "Concepto": "Poncho telar 2,00m",
+    "Precio de Lista": 212500,
+    "Precio Contado/Débito/Crédito 1": 181000,
+    "Precio 3 cuotas y Plan Z": 201900,
+    "Precio 6 cuotas": 212500
+  },
+  {
+    "Concepto": "Puñal alpaca 15cm",
+    "Precio de Lista": 122500,
+    "Precio Contado/Débito/Crédito 1": 104000,
+    "Precio 3 cuotas y Plan Z": 116400,
+    "Precio 6 cuotas": 122500
+  },
+  {
+    "Concepto": "Puñal alpaca 20cm",
+    "Precio de Lista": 131500,
+    "Precio Contado/Débito/Crédito 1": 112000,
+    "Precio 3 cuotas y Plan Z": 124700,
+    "Precio 6 cuotas": 131250
+  },
+  {
+    "Concepto": "Puñal alpaca 25cm",
+    "Precio de Lista": 150000,
+    "Precio Contado/Débito/Crédito 1": 127500,
+    "Precio 3 cuotas y Plan Z": 142500,
+    "Precio 6 cuotas": 150000
+  },
+  {
+    "Concepto": "Puñal alpaca 30cm",
+    "Precio de Lista": 162500,
+    "Precio Contado/Débito/Crédito 1": 138000,
+    "Precio 3 cuotas y Plan Z": 154400,
+    "Precio 6 cuotas": 162500
+  },
+  {
+    "Concepto": "Puñal alpaca 35cm",
+    "Precio de Lista": 181500,
+    "Precio Contado/Débito/Crédito 1": 154000,
+    "Precio 3 cuotas y Plan Z": 172200,
+    "Precio 6 cuotas": 181250
+  },
+  {
+    "Concepto": "Puñal alpaca enterizo 15cm",
+    "Precio de Lista": 162500,
+    "Precio Contado/Débito/Crédito 1": 138000,
+    "Precio 3 cuotas y Plan Z": 154400,
+    "Precio 6 cuotas": 162500
+  },
+  {
+    "Concepto": "Rastra de pelo N° 2",
+    "Precio de Lista": 42000,
+    "Precio Contado/Débito/Crédito 1": 36000,
+    "Precio 3 cuotas y Plan Z": 39800,
+    "Precio 6 cuotas": 41875
+  },
+  {
+    "Concepto": "Rastra de pelo N° 3",
+    "Precio de Lista": 52500,
+    "Precio Contado/Débito/Crédito 1": 45000,
+    "Precio 3 cuotas y Plan Z": 49900,
+    "Precio 6 cuotas": 52500
+  },
+  {
+    "Concepto": "Rastra de pelo N° 4",
+    "Precio de Lista": 60000,
+    "Precio Contado/Débito/Crédito 1": 51000,
+    "Precio 3 cuotas y Plan Z": 57000,
+    "Precio 6 cuotas": 60000
+  },
+  {
+    "Concepto": "Rastra de pelo N° 5",
+    "Precio de Lista": 67500,
+    "Precio Contado/Débito/Crédito 1": 57500,
+    "Precio 3 cuotas y Plan Z": 64100,
+    "Precio 6 cuotas": 67500
+  },
+  {
+    "Concepto": "Rastra Faja N° 2",
+    "Precio de Lista": 0,
+    "Precio Contado/Débito/Crédito 1": 0,
+    "Precio 3 cuotas y Plan Z": 0,
+    "Precio 6 cuotas": 0
+  },
+  {
+    "Concepto": "Rastra Faja N° 3",
+    "Precio de Lista": 0,
+    "Precio Contado/Débito/Crédito 1": 0,
+    "Precio 3 cuotas y Plan Z": 0,
+    "Precio 6 cuotas": 0
+  },
+  {
+    "Concepto": "Rastra Faja N° 5",
+    "Precio de Lista": 0,
+    "Precio Contado/Débito/Crédito 1": 0,
+    "Precio 3 cuotas y Plan Z": 0,
+    "Precio 6 cuotas": 0
+  },
+  {
+    "Concepto": "Rastra suela",
+    "Precio de Lista": 69000,
+    "Precio Contado/Débito/Crédito 1": 58500,
+    "Precio 3 cuotas y Plan Z": 65300,
+    "Precio 6 cuotas": 68750
+  },
+  {
+    "Concepto": "Rienda y cabezadas suela",
+    "Precio de Lista": 90000,
+    "Precio Contado/Débito/Crédito 1": 76500,
+    "Precio 3 cuotas y Plan Z": 85500,
+    "Precio 6 cuotas": 90000
+  },
+  {
+    "Concepto": "Rienda y cabezadas trenzada",
+    "Precio de Lista": 94000,
+    "Precio Contado/Débito/Crédito 1": 80000,
+    "Precio 3 cuotas y Plan Z": 89100,
+    "Precio 6 cuotas": 93750
+  },
+  {
+    "Concepto": "Silla apero",
+    "Precio de Lista": 200000,
+    "Precio Contado/Débito/Crédito 1": 170000,
+    "Precio 3 cuotas y Plan Z": 190000,
+    "Precio 6 cuotas": 200000
+  },
+  {
+    "Concepto": "Silla apero suela",
+    "Precio de Lista": 212500,
+    "Precio Contado/Débito/Crédito 1": 181000,
+    "Precio 3 cuotas y Plan Z": 201900,
+    "Precio 6 cuotas": 212500
+  },
+  {
+    "Concepto": "Silla cangalla",
+    "Precio de Lista": 350000,
+    "Precio Contado/Débito/Crédito 1": 297500,
+    "Precio 3 cuotas y Plan Z": 332500,
+    "Precio 6 cuotas": 350000
+  },
+  {
+    "Concepto": "Sobrepellon suela",
+    "Precio de Lista": 250000,
+    "Precio Contado/Débito/Crédito 1": 212500,
+    "Precio 3 cuotas y Plan Z": 237500,
+    "Precio 6 cuotas": 250000
+  },
+  {
+    "Concepto": "Sombrero australiano cuero engrasado",
+    "Precio de Lista": 200000,
+    "Precio Contado/Débito/Crédito 1": 170000,
+    "Precio 3 cuotas y Plan Z": 190000,
+    "Precio 6 cuotas": 200000
+  },
+  {
+    "Concepto": "Sombrero australiano ventilado",
+    "Precio de Lista": 94000,
+    "Precio Contado/Débito/Crédito 1": 80000,
+    "Precio 3 cuotas y Plan Z": 89100,
+    "Precio 6 cuotas": 93750
+  },
+  {
+    "Concepto": "Sombrero australiano yute",
+    "Precio de Lista": 125000,
+    "Precio Contado/Débito/Crédito 1": 106500,
+    "Precio 3 cuotas y Plan Z": 118800,
+    "Precio 6 cuotas": 125000
+  },
+  {
+    "Concepto": "Sombrero coya",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Sombrero Lagomarsino nutria ALA 9",
+    "Precio de Lista": 462500,
+    "Precio Contado/Débito/Crédito 1": 393000,
+    "Precio 3 cuotas y Plan Z": 439400,
+    "Precio 6 cuotas": 462500
+  },
+  {
+    "Concepto": "Sombrero lagomarsino rafia italiana",
+    "Precio de Lista": 137500,
+    "Precio Contado/Débito/Crédito 1": 117000,
+    "Precio 3 cuotas y Plan Z": 130600,
+    "Precio 6 cuotas": 137500
+  },
+  {
+    "Concepto": "Sombrero paja forrada",
+    "Precio de Lista": 17500,
+    "Precio Contado/Débito/Crédito 1": 15000,
+    "Precio 3 cuotas y Plan Z": 16600,
+    "Precio 6 cuotas": 17500
+  },
+  {
+    "Concepto": "Sombreros lagomarsino nutria ALA 10",
+    "Precio de Lista": 487500,
+    "Precio Contado/Débito/Crédito 1": 414500,
+    "Precio 3 cuotas y Plan Z": 463100,
+    "Precio 6 cuotas": 487500
+  },
+  {
+    "Concepto": "Sombreros paño de lana",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Talero enchapado",
+    "Precio de Lista": 162500,
+    "Precio Contado/Débito/Crédito 1": 138000,
+    "Precio 3 cuotas y Plan Z": 154400,
+    "Precio 6 cuotas": 162500
+  },
+  {
+    "Concepto": "Talero semi enchapado",
+    "Precio de Lista": 137500,
+    "Precio Contado/Débito/Crédito 1": 117000,
+    "Precio 3 cuotas y Plan Z": 130600,
+    "Precio 6 cuotas": 137500
+  },
+  {
+    "Concepto": "Tijera de Tuzar",
+    "Precio de Lista": 50000,
+    "Precio Contado/Débito/Crédito 1": 42500,
+    "Precio 3 cuotas y Plan Z": 47500,
+    "Precio 6 cuotas": 50000
+  },
+  {
+    "Concepto": "Toquilla económica",
+    "Precio de Lista": 15000,
+    "Precio Contado/Débito/Crédito 1": 13000,
+    "Precio 3 cuotas y Plan Z": 14300,
+    "Precio 6 cuotas": 15000
+  },
+  {
+    "Concepto": "Traje de gaucho dama adulto",
+    "Precio de Lista": 525000,
+    "Precio Contado/Débito/Crédito 1": 446500,
+    "Precio 3 cuotas y Plan Z": 498800,
+    "Precio 6 cuotas": 525000
+  },
+  {
+    "Concepto": "Traje de gaucho hombre adulto",
+    "Precio de Lista": 525000,
+    "Precio Contado/Débito/Crédito 1": 446500,
+    "Precio 3 cuotas y Plan Z": 498800,
+    "Precio 6 cuotas": 525000
+  },
+  {
+    "Concepto": "Traje de gaucho Niño 12 a 16",
+    "Precio de Lista": 400000,
+    "Precio Contado/Débito/Crédito 1": 340000,
+    "Precio 3 cuotas y Plan Z": 380000,
+    "Precio 6 cuotas": 400000
+  },
+  {
+    "Concepto": "Traje de gaucho Niño 4 a 8",
+    "Precio de Lista": 362500,
+    "Precio Contado/Débito/Crédito 1": 308000,
+    "Precio 3 cuotas y Plan Z": 344400,
+    "Precio 6 cuotas": 362500
+  },
+  {
+    "Concepto": "Trascorrion suela",
+    "Precio de Lista": 12500,
+    "Precio Contado/Débito/Crédito 1": 11000,
+    "Precio 3 cuotas y Plan Z": 11900,
+    "Precio 6 cuotas": 12500
+  },
+  {
+    "Concepto": "Zapato de danza",
+    "Precio de Lista": 169000,
+    "Precio Contado/Débito/Crédito 1": 143500,
+    "Precio 3 cuotas y Plan Z": 160300,
+    "Precio 6 cuotas": 168750
+  }
+]
